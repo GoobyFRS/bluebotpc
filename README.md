@@ -1,2 +1,2 @@
-# bluebotpc
-This repository is a place for all the software projects created for use by the BlueBotPC community and their Discord members.
+# BlueBotPC Community Repository
+This repository is a place for Matt Faulkner to upload things created for the BlueBotPC.net community. 
