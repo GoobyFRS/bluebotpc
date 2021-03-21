@@ -1,8 +1,10 @@
 # BlueBotPC Community Repository
-This repository is a place for Matt Faulkner to upload things created for the BlueBotPC.net community. 
+This repository is a place for BlueBotPC created scripts and programs. It is currently maintained by Matt Faulkner but is open to our entire community.
 
 ### AutoMapDrive
-You'll need to input the address of your network drive hosts, and you will need to supply your local username and password. When you open the file to read the content you'll see what needs to be changed to make it work for your home usage.
+A batch-file that can automatically map network drives on Windows login.
+Download and edit this batch file to make it work for your environment.
+RUN > shell:startup > put .bat in this folder
 
 ### bbpc_ping_utility
 Linux Support Only - Does not run on Windows.
